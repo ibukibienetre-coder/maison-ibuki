@@ -24,19 +24,26 @@ export function About() {
           <div className="hairline my-10" />
           <div className="space-y-6 text-base md:text-lg leading-relaxed text-foreground/80 max-w-xl">
             <p>
-              Je m'appelle Nelly. Après plusieurs années dans un autre univers,
-              j'ai choisi d'écouter ce qui me portait depuis longtemps :
-              le soin, la présence, et la beauté discrète des rituels japonais.
+              Je m'appelle Nelly. Pendant plusieurs années, j'ai évolué dans
+              un tout autre univers — plus rapide, plus bruyant. Un jour,
+              j'ai senti qu'il était temps d'écouter ce qui m'appelait
+              vraiment : prendre soin, être présente, ralentir avec les autres.
             </p>
             <p>
-              IBUKI est né de cette envie sincère — offrir un espace
-              où l'on peut simplement déposer ses tensions, respirer,
-              et se sentir accueilli·e avec douceur.
+              IBUKI est née de cette envie simple et sincère —
+              offrir un espace pour respirer, déposer ses tensions
+              et se sentir accueillie sans jugement, à son propre rythme.
             </p>
             <p>
-              Je me forme avec passion aux pratiques japonaises et
-              je m'engage à vous proposer des soins justes, attentifs,
-              guidés par l'écoute et le respect de votre rythme.
+              Je me forme avec passion aux rituels japonais, parce que
+              j'y retrouve ce que je cherche depuis longtemps : la lenteur
+              du geste, la justesse du toucher, et cette manière douce
+              de ramener le corps et l'esprit ensemble.
+            </p>
+            <p>
+              Mon engagement est simple : vous écouter vraiment, et vous
+              proposer un moment qui vous ressemble — sincère, attentif
+              et profondément humain.
             </p>
           </div>
           <p className="font-serif italic text-2xl text-foreground/70 mt-12">
