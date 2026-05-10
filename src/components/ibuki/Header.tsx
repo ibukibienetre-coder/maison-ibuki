@@ -28,7 +28,7 @@ export function Header() {
     >
       <div className="mx-auto max-w-7xl px-6 md:px-10 h-20 flex items-center justify-between">
         <a href="#top" className="flex items-center gap-3">
-          <img src={logo} alt="IBUKI" className="h-10 w-auto" />
+          <img src={logo} alt="IBUKI" className="h-14 w-auto" />
         </a>
         <nav className="hidden md:flex items-center gap-10 text-[11px] uppercase tracking-widest-3 text-foreground/80">
           {links.map((l) => (
