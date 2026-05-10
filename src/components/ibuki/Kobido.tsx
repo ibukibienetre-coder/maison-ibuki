@@ -42,7 +42,7 @@ export function Kobido() {
                   Offre découverte
                 </p>
                 <h3 className="font-serif text-3xl text-foreground">Kobido japonais</h3>
-                <p className="text-sm text-muted-foreground mt-1">Soin complet — 1 heure</p>
+                <p className="text-sm text-muted-foreground mt-1">Soin complet — 45 minutes</p>
               </div>
               <div className="text-right">
                 <p className="font-serif text-4xl text-foreground">45€</p>
@@ -53,6 +53,9 @@ export function Kobido() {
             </div>
             <p className="text-sm text-muted-foreground italic mb-8">
               Tarif préférentiel proposé pour l'ouverture d'IBUKI.
+            </p>
+            <p className="text-xs text-muted-foreground/80 italic mb-8 -mt-6">
+              Des frais kilométriques peuvent être appliqués pour les déplacements éloignés.
             </p>
             <a
               href="#reservation"
