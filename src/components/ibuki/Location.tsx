@@ -4,7 +4,7 @@ const places = [
   {
     jp: "家",
     title: "À domicile",
-    text: "Je viens à votre rencontre, dans votre cocon, pour un soin pleinement personnalisé.",
+    text: "Je viens à votre rencontre, dans votre cocon, pour un soin pleinement personnalisé. Selon la distance, de légers frais kilométriques peuvent s'appliquer.",
   },
   {
     jp: "間",
