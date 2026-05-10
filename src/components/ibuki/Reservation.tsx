@@ -19,7 +19,7 @@ export function Reservation() {
           <div className="grid md:grid-cols-3 gap-8 mb-10 text-sm">
             <div>
               <p className="text-[11px] uppercase tracking-widest-3 text-foreground/60 mb-2">Durée</p>
-              <p className="font-serif text-xl">1 heure</p>
+              <p className="font-serif text-xl">45 minutes</p>
             </div>
             <div>
               <p className="text-[11px] uppercase tracking-widest-3 text-foreground/60 mb-2">Tarif découverte</p>
@@ -61,6 +61,9 @@ export function Reservation() {
 
         <p className="text-sm text-muted-foreground italic mt-10">
           Une question avant de réserver ? Écrivez-moi, je vous réponds personnellement.
+        </p>
+        <p className="text-xs text-muted-foreground/70 italic mt-3">
+          Des frais kilométriques peuvent être appliqués en cas de grande distance.
         </p>
       </div>
     </section>
