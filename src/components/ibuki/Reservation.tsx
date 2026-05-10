@@ -27,7 +27,7 @@ export function Reservation() {
             </div>
             <div>
               <p className="text-[11px] uppercase tracking-widest-3 text-foreground/60 mb-2">Lieu</p>
-              <p className="font-serif text-xl">Cabinet IBUKI</p>
+              <p className="font-serif text-xl">À domicile</p>
             </div>
           </div>
 
