@@ -4,6 +4,7 @@ import { Hero } from "@/components/ibuki/Hero";
 import { Kobido } from "@/components/ibuki/Kobido";
 import { Experience } from "@/components/ibuki/Experience";
 import { About } from "@/components/ibuki/About";
+import { Location } from "@/components/ibuki/Location";
 import { Future } from "@/components/ibuki/Future";
 import { Reservation } from "@/components/ibuki/Reservation";
 import { Footer } from "@/components/ibuki/Footer";
@@ -38,6 +39,7 @@ function Index() {
         <Kobido />
         <Experience />
         <About />
+        <Location />
         <Future />
         <Reservation />
       </main>
