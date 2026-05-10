@@ -20,7 +20,7 @@ export function Hero() {
             Maison de bien-être japonais
           </p>
           <img src={logo} alt="IBUKI" className="h-40 md:h-56 w-auto mb-4 breathe" />
-          <p className="font-serif italic text-2xl md:text-3xl text-foreground/80 mb-10">
+          <p className="font-serif italic text-3xl md:text-4xl text-foreground/80 mb-10">
             Le souffle du bien-être japonais
           </p>
           <p className="text-[11px] uppercase tracking-widest-3 text-foreground/60 mb-8">
