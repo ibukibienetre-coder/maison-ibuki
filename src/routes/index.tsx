@@ -5,8 +5,10 @@ import { Kobido } from "@/components/ibuki/Kobido";
 import { Experience } from "@/components/ibuki/Experience";
 import { About } from "@/components/ibuki/About";
 import { Location } from "@/components/ibuki/Location";
+import { Testimonials } from "@/components/ibuki/Testimonials";
 import { Future } from "@/components/ibuki/Future";
 import { Reservation } from "@/components/ibuki/Reservation";
+import { Payments } from "@/components/ibuki/Payments";
 import { Footer } from "@/components/ibuki/Footer";
 
 export const Route = createFileRoute("/")({
@@ -40,8 +42,10 @@ function Index() {
         <Experience />
         <About />
         <Location />
+        <Testimonials />
         <Future />
         <Reservation />
+        <Payments />
       </main>
       <Footer />
     </div>

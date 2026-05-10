@@ -5,7 +5,7 @@ const links = [
   { href: "#kobido", label: "Le Kobido" },
   { href: "#experience", label: "L'expérience" },
   { href: "#about", label: "À propos" },
-  { href: "#future", label: "Rituels" },
+  { href: "#mots-doux", label: "Mots doux" },
   { href: "#reservation", label: "Réserver" },
 ];
 
