@@ -1,8 +1,7 @@
-import { Banknote, CreditCard, Wallet, Landmark } from "lucide-react";
+import { Banknote, Wallet, Landmark } from "lucide-react";
 
 const methods = [
   { icon: Banknote, label: "Espèces" },
-  { icon: CreditCard, label: "Carte bancaire" },
   { icon: Wallet, label: "PayPal" },
   { icon: Landmark, label: "Virement" },
 ];
